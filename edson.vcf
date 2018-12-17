@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Chilundo;Edson;;;
+FN: Edson Chilundo 
+EMAIL;type=INTERNET;type=PERSONAL;type=pref:edson.ac@live.com
+TEL;type=CELLULAR;type=VOICE:+258 86 162 0949
+item1.X-ABADR:mz
+item2.URL;type=pref:linkedin.com/in/edsonac/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
